@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="three.xsl" type="text/xsl"?>
+
+<class>
+    <student>
+        <name>Asadullah</name>
+        <age>20</age>
+        <number>78654</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>Asad Ali</name>
+        <age>18</age>
+        <number>365453</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>Abdulallah</name>
+        <age>19</age>
+        <number>45635</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>bilal</name>
+        <age>21</age>
+        <number>875833</number>
+        <grade>A</grade>
+    </student>
+</class>
