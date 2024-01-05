@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="six.xsl" type="text/xsl"?>
+
+<cd>
+    <collection>
+        <title>Empire Burlespue</title>
+        <artist>Bob Dylan</artist>
+    </collection>
+
+    <collection>
+        <title>Hide Your Heart</title>
+        <artist>Bonnie Tyler</artist>
+    </collection>
+
+    <collection>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+    </collection>
+
+    <collection>
+        <title>Still Got The Blues</title>
+        <artist>Gray Moore</artist>
+    </collection>
+
+    <collection>
+        <title>Eros</title>
+        <artist>Eros Ramazzotti</artist>
+    </collection>
+
+    <collection>
+        <title>One Night Only</title>
+        <artist>Bee Gees</artist>
+    </collection>
+
+    <collection>
+        <title>Sylvias Mother</title>
+        <artist>Dr.Hook</artist>
+    </collection>
+
+    <collection>
+        <title>Maggie May</title>
+        <artist>Rod Stewart</artist>
+    </collection>
+
+    <collection>
+        <title>Romanza</title>
+        <artist>Andrea Bocelli</artist>
+    </collection>
+
+    <collection>
+        <title>When a Man Loves A Woman</title>
+        <artist>Parcy Sledge</artist>
+    </collection>
+
+    <collection>
+        <title>Black Angel</title>
+        <artist>Savage Rose</artist>
+    </collection>
+
+    <collection>
+        <title>1999 Grammy Nominees</title>
+        <artist>Many</artist>
+    </collection>
+
+    <collection>
+        <title>For The Good Times</title>
+        <artist>Kenny Rogers</artist>
+    </collection>
+
+    <collection>
+        <title>Big Willie Style</title>
+        <artist>Will Smith</artist>
+    </collection>
+
+    <collection>
+        <title>Tupelo Honey</title>
+        <artist>Van Morrison</artist>
+    </collection>
+
+    <collection>
+        <title>Soulsville</title>
+        <artist>Jorn Hoel</artist>
+    </collection>
+
+    <collection>
+        <title>The Very Best Of</title>
+        <artist>Cat Stevens</artist>
+    </collection>
+
+    <collection>
+        <title>Stop</title>
+        <artist>Sam Brown</artist>
+    </collection>
+
+    <collection>
+        <title>Bridge Of Spies</title>
+        <artist>T`Pau</artist>
+    </collection>
+</cd>
